@@ -44,13 +44,13 @@
 
 ---
 
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord)
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)
 
 *NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most LOC on GitHub*
 
 ---
 
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltrivedi10&layout=compact&hide=stars,prs,issues,contribs)](https://github.com/harshaltrivedi10/github-readme-stats)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltrivedi10&layout=compact)](https://github.com/harshaltrivedi10/github-readme-stats)
 
 ---
 
