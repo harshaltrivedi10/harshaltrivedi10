@@ -6,8 +6,6 @@
 - 🌱 I like learning new things.
 - ⚡ I am an avid reader📚.
 
-<br />
-
 ## Languages, Frameworks, Libraries and Tools:
 <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
@@ -42,9 +40,7 @@
 <img src="https://img.shields.io/badge/-PyTorch-informational?style=for-the-badge&logo=pytorch&color=4A3677">&nbsp;
 
 ---
-
 <br />
-
 ### My GitHub Stats
 
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)(https://github.com/anuraghazra/github-readme-stats)
@@ -55,10 +51,7 @@
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltrivedi10&layout=compact)](https://github.com/harshaltrivedi10/github-readme-stats)
 
 ---
-
 <br />
-
-
 ### Connect with me
 <!-- 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
