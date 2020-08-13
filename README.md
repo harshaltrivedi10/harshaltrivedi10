@@ -42,7 +42,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ---
 
-<img align="left" alt="harshaltrivedi10's GitHub Stats" src="https://github-readme-stats.harshaltrivedi10.vercel.app/api?username=harshaltrivedi10&show_icons=true&hide_border=true" />
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true)
 
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/i_m_number_10
