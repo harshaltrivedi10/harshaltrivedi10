@@ -10,8 +10,10 @@
 
 ### Languages and Tools:
 <img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-java-informational?style=for-the-badge&logo=java&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-java-informational?style=for-the-badge&logo=java&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
@@ -48,7 +50,7 @@
 
 #### My GitHub Stats
 
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)(https://github.com/anuraghazra/github-readme-stats)
 
 *NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most LOC on GitHub*
 
