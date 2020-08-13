@@ -1,4 +1,4 @@
-### Hi there, I'm Harshal Trivedi👋
+## Hi there, I'm Harshal Trivedi👋
 
 ## I'm a Software Engineer who is amazed by Frontend Technologies, Cloud Technologies and DevOps!
 - 👷‍♀️ I’m currently working with [buybackboss]!
@@ -8,18 +8,24 @@
 
 <br />
 
-### Languages and Tools:
+## Languages, Frameworks, Libraries and Tools:
 <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=vue.js&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Scala-informational?style=for-the-badge&logo=scala&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Flask-informational?style=for-the-badge&logo=flask&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Azure-informational?style=for-the-badge&logo=microsoft&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-GCP-informational?style=for-the-badge&logo=google&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Firebase-informational?style=for-the-badge&logo=firebase&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Digital%20Ocean-informational?style=for-the-badge&logo=digitalocean&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-D3.js-informational?style=for-the-badge&logo=d3.js&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=4A3677">&nbsp;
@@ -37,18 +43,9 @@
 
 ---
 
-### About me:
-
-#### Connect with me
-<!-- 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
-#### My GitHub Stats
+### My GitHub Stats
 
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)(https://github.com/anuraghazra/github-readme-stats)
 
@@ -58,6 +55,16 @@
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltrivedi10&layout=compact)](https://github.com/harshaltrivedi10/github-readme-stats)
 
 ---
+
+<br />
+
+
+### Connect with me
+<!-- 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/i_m_number_10
 [instagram]: https://instagram.com/harshaltrivedi10
