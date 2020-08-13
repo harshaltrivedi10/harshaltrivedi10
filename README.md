@@ -9,23 +9,29 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
----
+<img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">
+<img src="https://img.shields.io/badge/-java-informational?style=for-the-badge&logo=java&color=4A3677">
+<img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">
+<img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">
+<img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">
+<img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">
+<img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">
+<img src="https://img.shields.io/badge/-flask-informational?style=for-the-badge&logo=flask&color=4A3677">
+<img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon&color=4A3677">
+<img src="https://img.shields.io/badge/-d3.js-informational?style=for-the-badge&logo=d3.js&color=4A3677">
+<img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">
+<img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=4A3677">
+<img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&color=4A3677">
+<img src="https://img.shields.io/badge/-Kubernetes-informational?style=for-the-badge&logo=kubernetes&color=4A3677">
+<img src="https://img.shields.io/badge/Serverless-informational?style=for-the-badge&logo=serverless&color=4A3677">
+<img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&color=4A3677">
+<img src="https://img.shields.io/badge/Mongoose-informational?style=for-the-badge&logo=monero&color=4A3677">
+<img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=4A3677">
+<img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=4A3677">
+<img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">
+<img src="https://img.shields.io/badge/-android-informational?style=for-the-badge&logo=android&color=4A3677">
+<img src="https://img.shields.io/badge/-tableau-informational?style=for-the-badge&logo=tableau&color=4A3677">
+<img src="https://img.shields.io/badge/-pytorch-informational?style=for-the-badge&logo=pytorch&color=4A3677">
 
 ---
 
@@ -44,7 +50,6 @@
 
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshaltrivedi10&layout=compact)](https://github.com/harshaltrivedi10/github-readme-stats)
 
-<!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/i_m_number_10
 [instagram]: https://instagram.com/harshaltrivedi10
 [linkedin]: https://linkedin.com/in/hbmt10
