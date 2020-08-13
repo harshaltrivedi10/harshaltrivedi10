@@ -9,18 +9,18 @@
 <br />
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/-python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-java-informational?style=for-the-badge&logo=java&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=vue.js&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=node.js&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-flask-informational?style=for-the-badge&logo=flask&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-informational?style=for-the-badge&logo=flask&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazon&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-d3.js-informational?style=for-the-badge&logo=d3.js&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-D3.js-informational?style=for-the-badge&logo=d3.js&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-informational?style=for-the-badge&logo=etsy&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Microservices-informational?style=for-the-badge&logo=nucleo&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&color=4A3677">&nbsp;
@@ -31,9 +31,9 @@
 <img src="https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-android-informational?style=for-the-badge&logo=android&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-tableau-informational?style=for-the-badge&logo=tableau&color=4A3677">&nbsp;
-<img src="https://img.shields.io/badge/-pytorch-informational?style=for-the-badge&logo=pytorch&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Android-informational?style=for-the-badge&logo=android&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-informational?style=for-the-badge&logo=tableau&color=4A3677">&nbsp;
+<img src="https://img.shields.io/badge/-PyTorch-informational?style=for-the-badge&logo=pytorch&color=4A3677">&nbsp;
 
 ---
 
