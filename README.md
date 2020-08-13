@@ -46,6 +46,7 @@
 ### My GitHub Stats
 
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)
+<br />
 *NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most LOC on GitHub*
 
 
