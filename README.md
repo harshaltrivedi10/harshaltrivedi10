@@ -5,6 +5,7 @@
 - 👨‍🎓 Arizona State University Graduate - Class of '20.
 - 🌱 I like learning new things.
 - ⚡ I am an avid reader📚.
+<br />
 
 ## Languages, Frameworks, Libraries and Tools:
 <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
@@ -41,10 +42,10 @@
 
 ---
 <br />
+
 ### My GitHub Stats
 
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)(https://github.com/anuraghazra/github-readme-stats)
-
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshaltrivedi10&count_private=true&show_icons=true&theme=nord&hide=stars,prs,issues,contribs)
 *NOTE: Top languages do not indicate my skill level or something like that, it's a github metric of which languages I have the most LOC on GitHub*
 
 
@@ -52,6 +53,7 @@
 
 ---
 <br />
+
 ### Connect with me
 <!-- 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
