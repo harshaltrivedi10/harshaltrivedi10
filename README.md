@@ -8,6 +8,7 @@
 <br />
 
 ## Languages, Frameworks, Libraries and Tools:
+
 <img src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&color=4A3677">&nbsp;
 <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=4A3677">&nbsp;
